@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://assets.isu.pub/document-structure/221121052614-8bfa75a7dbfc02e104b858d0f1db0cd7/v1/c910baac369a030bf09548ab196e96e6.jpeg');
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: darkorange;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    width: 291px;
+    font-size: 20px;
+    margin: auto;
+    padding: 15px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
